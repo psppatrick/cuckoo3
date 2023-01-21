@@ -57,7 +57,7 @@ setuptools.setup(
         ],
     },
     install_requires=[
-        "Cuckoo-common>=0.1.1",
+        "Cuckoo-common>=0.1.0",
         "Cuckoo-processing>=0.1.1",
         "Cuckoo-machineries>=0.1.0",
         "Cuckoo-web>=0.1.2",
